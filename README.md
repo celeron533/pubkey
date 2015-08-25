@@ -1,3 +1,6 @@
+This key is copyed from clowwindy/pubkey, just for memo. Please do not send mail to me.
+
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
